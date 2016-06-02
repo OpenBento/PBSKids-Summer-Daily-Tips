@@ -1,0 +1,36 @@
+.kidsbluebutton {
+	font-family:'pbs_kids_headlineregular';
+	font-size: 20px;
+	display: inline-block;
+	margin: 10px 0 30px 0;
+	padding: 10px 20px;
+	color: #fff;
+	font-size: 16px;
+	background: #00b8f1;
+	border-radius: 2px;
+
+}
+
+.kidsbluebutton:hover {
+    color: #fff;
+}
+
+
+/* PBS KIDS HEADER FONT */
+.kidsblue{
+	font-family: 'pbs_kids_headlineregular';
+	color:#00b8f1 !important;
+	}
+	
+.kidsyellow{
+	font-family: 'pbs_kids_headlineregular';
+	color:#ffc222 !important;
+	}
+.kidsgreen{
+	font-family: 'pbs_kids_headlineregular';
+	color:#99cf16 !important;
+	}
+.kidsmagenta{
+	font-family: 'pbs_kids_headlineregular';
+	color:#ed037c !important;
+	}
